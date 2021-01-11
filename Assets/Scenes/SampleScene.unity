@@ -1670,14 +1670,14 @@ HingeJoint2D:
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: -0.03, y: -0.2}
   m_ConnectedAnchor: {x: 5.2019997, y: -3.39}
-  m_UseMotor: 0
+  m_UseMotor: 1
   m_Motor:
-    m_MotorSpeed: 0
-    m_MaximumMotorForce: 10000
+    m_MotorSpeed: 50
+    m_MaximumMotorForce: 10
   m_UseLimits: 1
   m_AngleLimits:
-    m_LowerAngle: 375.6
-    m_UpperAngle: 165.82
+    m_LowerAngle: 0.3
+    m_UpperAngle: -32.1
 --- !u!50 &1349749810
 Rigidbody2D:
   serializedVersion: 4
@@ -2270,9 +2270,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SoldierPF: {fileID: 347899847902414474, guid: 1c4f2eaebb039f149b857069c6b2cffd,
     type: 3}
-  TimerStart1: 4
-  TimerStart2: 4.3
-  TimerStart3: 4.5
+  TimerStart1: 3
+  TimerStart2: 3.2
+  TimerStart3: 3.6
   TimerCount: 2
   XMin: -3.61
   XMax: 6.82
