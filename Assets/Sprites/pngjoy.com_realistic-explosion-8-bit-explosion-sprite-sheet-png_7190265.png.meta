@@ -1,0 +1,1013 @@
+fileFormatVersion: 2
+guid: a4d38e575cdc9c945a1f7a07d6db9deb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2248912592290493345
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_0
+  - first:
+      213: 8520962061329194029
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_1
+  - first:
+      213: 6872589187498950530
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_2
+  - first:
+      213: 7531185038704739620
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_3
+  - first:
+      213: -4575088550864508270
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_4
+  - first:
+      213: 822814264407944337
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_5
+  - first:
+      213: -7812164757090330643
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_6
+  - first:
+      213: 4740933900709083242
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_7
+  - first:
+      213: 6244337189773472543
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_8
+  - first:
+      213: 5291446102702262479
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_9
+  - first:
+      213: 8342595001926158833
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_10
+  - first:
+      213: -7306289412207695252
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_11
+  - first:
+      213: -3965363436904099444
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_12
+  - first:
+      213: 1415841437505126144
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_13
+  - first:
+      213: 3265035949842233608
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_14
+  - first:
+      213: -4995331842260161941
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_15
+  - first:
+      213: -7361840766668971314
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_16
+  - first:
+      213: 5833474747698292766
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_17
+  - first:
+      213: -4475631172858758721
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_18
+  - first:
+      213: -4275536798629280780
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_19
+  - first:
+      213: 2141802288191008646
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_20
+  - first:
+      213: -7601118088013995902
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_21
+  - first:
+      213: -6196820644384897819
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_22
+  - first:
+      213: -5973739823846446721
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_23
+  - first:
+      213: 2017660387875942621
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_24
+  - first:
+      213: -5313395037169707669
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_25
+  - first:
+      213: -7076313317339483427
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_26
+  - first:
+      213: -4098005497590505294
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_27
+  - first:
+      213: -7674052370459139387
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_28
+  - first:
+      213: -8555117297125367763
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_29
+  - first:
+      213: -2967841413140422967
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_30
+  - first:
+      213: 4811376118607139124
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_31
+  - first:
+      213: -5808932291303932314
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_32
+  - first:
+      213: -5278589905348100274
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_33
+  - first:
+      213: 6538231765190168129
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_34
+  - first:
+      213: 2410625746516310219
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_35
+  - first:
+      213: 8228372730075313274
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_36
+  - first:
+      213: 4723982454276366207
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_37
+  - first:
+      213: 3677168420801479738
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_38
+  - first:
+      213: 8826754339023314199
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_39
+  - first:
+      213: 2730461014518484714
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_40
+  - first:
+      213: 5888863198985200597
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_41
+  - first:
+      213: 4727367755502956670
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_42
+  - first:
+      213: 3902792800559268951
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_43
+  - first:
+      213: 1957445171321272205
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_44
+  - first:
+      213: 7126789483152707525
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_45
+  - first:
+      213: -430315777088449123
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_46
+  - first:
+      213: -1935053158543624067
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_47
+  - first:
+      213: 2535892125763412593
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_48
+  - first:
+      213: -5099682417577323556
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_49
+  - first:
+      213: -6644415916927960727
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_50
+  - first:
+      213: -7129578918285361402
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_51
+  - first:
+      213: 4567190108416820671
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_52
+  - first:
+      213: -1094936830476376692
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_53
+  - first:
+      213: -1911793888135289395
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_54
+  - first:
+      213: 8958951383949312430
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_55
+  - first:
+      213: -920728668869480709
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_56
+  - first:
+      213: -6644934434560404990
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_57
+  - first:
+      213: -1146850394181148528
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_58
+  - first:
+      213: 1872647057732770472
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_59
+  - first:
+      213: 1252629776225922818
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_60
+  - first:
+      213: 5468788795241894279
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_61
+  - first:
+      213: -8962158466498003732
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_62
+  - first:
+      213: 5360628830520005724
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_63
+  - first:
+      213: 1167674988097535625
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_64
+  - first:
+      213: -1261023348829277608
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_65
+  - first:
+      213: -3459267131231625433
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_66
+  - first:
+      213: 2117638635976189127
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_67
+  - first:
+      213: -8021529910272667304
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_68
+  - first:
+      213: -3377990020757677552
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_69
+  - first:
+      213: -1856493069928520500
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_70
+  - first:
+      213: 3345170777763737681
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_71
+  - first:
+      213: 6423993430578054372
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_72
+  - first:
+      213: 5865946510397054562
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_73
+  - first:
+      213: -3292337428460359215
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_74
+  - first:
+      213: -5111218978275573678
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_75
+  - first:
+      213: -639141580926716046
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_76
+  - first:
+      213: -1691347237909704634
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_77
+  - first:
+      213: 3256960203458150428
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_78
+  - first:
+      213: 5748459337138673270
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_79
+  - first:
+      213: 6459340220332555908
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_80
+  - first:
+      213: 5245469125507637060
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_81
+  - first:
+      213: 2946554856216858531
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_82
+  - first:
+      213: -309246981684997735
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_83
+  - first:
+      213: 5357713279876499695
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_84
+  - first:
+      213: 8855982842418905367
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_85
+  - first:
+      213: -5754839307041877654
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_86
+  - first:
+      213: -8893592241679441065
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_87
+  - first:
+      213: 1054946912816112375
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_88
+  - first:
+      213: 1383250066880611641
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_89
+  - first:
+      213: -2227392158225327293
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_90
+  - first:
+      213: 6062286605067233876
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_91
+  - first:
+      213: 7444568282169235930
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_92
+  - first:
+      213: -7508613351886440231
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_93
+  - first:
+      213: -1259172859984918616
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_94
+  - first:
+      213: 4753158351949612395
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_95
+  - first:
+      213: -8452631587522593173
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_96
+  - first:
+      213: -2487297341201919305
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_97
+  - first:
+      213: -4312468898766191849
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_98
+  - first:
+      213: 4014750023348382193
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_99
+  - first:
+      213: -8509348019513965614
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_100
+  - first:
+      213: 4625637370764934152
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_101
+  - first:
+      213: 4935083972589614589
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_102
+  - first:
+      213: 4160370195288012663
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_103
+  - first:
+      213: -9211459065085685597
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_104
+  - first:
+      213: 413988118738641890
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_105
+  - first:
+      213: -3134026434166393883
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_106
+  - first:
+      213: 4875038744431014347
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_107
+  - first:
+      213: -8686503318947284085
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_108
+  - first:
+      213: 8332284201472241957
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_109
+  - first:
+      213: 7972209864223832931
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_110
+  - first:
+      213: 2184542351416936663
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_111
+  - first:
+      213: 4676420522836743923
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_112
+  - first:
+      213: -8397292089315513307
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_113
+  - first:
+      213: 8839496381310011262
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_114
+  - first:
+      213: 5704834618671804887
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_115
+  - first:
+      213: 1947943571327631312
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_116
+  - first:
+      213: -2591472854155375574
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_117
+  - first:
+      213: -5216607422733644896
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_118
+  - first:
+      213: -1388485103793043636
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_119
+  - first:
+      213: -7232645892361028349
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_120
+  - first:
+      213: -2142516420817103832
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_121
+  - first:
+      213: -7391551552340860019
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_122
+  - first:
+      213: -2368956133429376194
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_123
+  - first:
+      213: -4646513102446161950
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_124
+  - first:
+      213: -6516668971937665248
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_125
+  - first:
+      213: 4776745935222731377
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_126
+  - first:
+      213: 1559898675066337619
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_127
+  - first:
+      213: -6285210309135104960
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_128
+  - first:
+      213: 7888245606422984638
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_129
+  - first:
+      213: -4131458904000126669
+    second: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_130
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 559
+        width: 49
+        height: 48
+      alignment: 9
+      pivot: {x: 0.48379952, y: 0.5330747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c4f9d99e14ac0e0800000000000000
+      internalID: -2248912592290493345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 556
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c5b1a49d9804670800000000000000
+      internalID: 8520962061329194029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 550
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fb0181477506f50800000000000000
+      internalID: 6872589187498950530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_3
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 541
+        width: 90
+        height: 80
+      alignment: 9
+      pivot: {x: 0.46804672, y: 0.5299568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4258bb904e4248860800000000000000
+      internalID: 7531185038704739620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_4
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 541
+        width: 95
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5252268, y: 0.5175357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29aa3cde3350280c0800000000000000
+      internalID: -4575088550864508270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 405
+        width: 96
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5066253, y: 0.48715055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ce82ac6393b6b00800000000000000
+      internalID: 822814264407944337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 403
+        width: 95
+        height: 103
+      alignment: 9
+      pivot: {x: 0.48105678, y: 0.4867438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de71ec64b8d959390800000000000000
+      internalID: -7812164757090330643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_7
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 399
+        width: 104
+        height: 112
+      alignment: 9
+      pivot: {x: 0.48316956, y: 0.4882788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a683f5f934e2bc140800000000000000
+      internalID: 4740933900709083242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_8
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 401
+        width: 104
+        height: 109
+      alignment: 9
+      pivot: {x: 0.49158478, y: 0.4959857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f137536179758a650800000000000000
+      internalID: 6244337189773472543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_9
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 389
+        width: 113
+        height: 123
+      alignment: 9
+      pivot: {x: 0.4883828, y: 0.528462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc881b3f13efe6940800000000000000
+      internalID: 5291446102702262479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 122
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f902ca04f9d6c370800000000000000
+      internalID: 8342595001926158833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 260
+        width: 125
+        height: 130
+      alignment: 9
+      pivot: {x: 0.4744745, y: 0.49999976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6aa92f6d78da9a90800000000000000
+      internalID: -7306289412207695252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_12
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 261
+        width: 123
+        height: 129
+      alignment: 9
+      pivot: {x: 0.4868509, y: 0.49582076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81520aa6f238f8c0800000000000000
+      internalID: -3965363436904099444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_13
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 260
+        width: 129
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f75c4394416a310800000000000000
+      internalID: 1415841437505126144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_14
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 261
+        width: 128
+        height: 126
+      alignment: 9
+      pivot: {x: 0.49423265, y: 0.5117192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809f931c5ecbf4d20800000000000000
+      internalID: 3265035949842233608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 127
+        height: 132
+      alignment: 9
+      pivot: {x: 0.47696844, y: 0.5123106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6aa2e6e7240daab0800000000000000
+      internalID: -4995331842260161941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_16
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 128
+        width: 136
+        height: 130
+      alignment: 9
+      pivot: {x: 0.46828818, y: 0.5199051}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2e4b1d3dc75d990800000000000000
+      internalID: -7361840766668971314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_17
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 127
+        width: 137
+        height: 130
+      alignment: 9
+      pivot: {x: 0.40241125, y: 0.5265402}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18a4ce306aa4f050800000000000000
+      internalID: 5833474747698292766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_18
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 126
+        width: 113
+        height: 130
+      alignment: 9
+      pivot: {x: 0.41770706, y: 0.5343353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9b614492d53e1c0800000000000000
+      internalID: -4475631172858758721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_19
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 129
+        width: 125
+        height: 127
+      alignment: 9
+      pivot: {x: 0.49404883, y: 0.52635974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f347953fed3aa4c0800000000000000
+      internalID: -4275536798629280780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 121
+        height: 113
+      alignment: 9
+      pivot: {x: 0.46413743, y: 0.5432019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f6eb655d539bd10800000000000000
+      internalID: 2141802288191008646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_21
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 34
+        width: 79
+        height: 69
+      alignment: 9
+      pivot: {x: 0.45193753, y: 0.4528331}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28021241f57638690800000000000000
+      internalID: -7601118088013995902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_22
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 36
+        width: 67
+        height: 64
+      alignment: 9
+      pivot: {x: 0.54857534, y: 0.4745741}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e481a2c478700aa0800000000000000
+      internalID: -6196820644384897819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngjoy.com_realistic-explosion-8-bit-explosion-sprite-sheet-png_7190265_23
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 31
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79270bc743091da0800000000000000
+      internalID: -5973739823846446721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
